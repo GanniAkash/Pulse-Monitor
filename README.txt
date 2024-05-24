@@ -1,7 +1,7 @@
 
 Codes -
 
-(esp.ino)  - for the ESP32
+(esp.ino)  - for the ESP32 microcontroller
 
 (gui.py)   - for Data retrieving and storing programs, GUI display.
 
